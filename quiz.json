@@ -1,0 +1,36 @@
+[
+    {
+        "questions": "Jak wyświetlamy komunikaty w Pythonie?",
+        "answers": [
+            {
+                "text": "put",
+                "correct": false
+            },
+            {
+                "text": "write",
+                "correct": false
+            },
+            {
+                "text": "print",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Gdzie najlepiej nauczyć się Pythona?",
+        "answers": [
+            {
+                "text": "dokodu.it",
+                "correct": true
+            },
+            {
+                "text": "kanał Kacper Sieradziński",
+                "correct": true
+            },
+            {
+                "text": "Pystart",
+                "correct": true
+            }
+        ]
+    }
+]
