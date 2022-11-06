@@ -17,7 +17,7 @@
         ]
     },
     {
-        "question": "Gdzie najlepiej nauczyć się Pythona?",
+        "questions": "Gdzie najlepiej nauczyć się Pythona?",
         "answers": [
             {
                 "text": "dokodu.it",
